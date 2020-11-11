@@ -1,7 +1,7 @@
 
   # Employee Directory
   # Description
-  ![App Demo](https://catherinelui2.github.io/ReadMeGen/demo.gif)
+  ![App Demo]()
   This Employee Directory is created with react and allows you to filter employee by name and will reflect onChange within the input text area.<br>
   ## Table of Contents<br>
   1.[Installation](#Installation)<br>
